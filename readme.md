@@ -17,9 +17,7 @@
 
 
 
-**GUI介面如下：**
 
-![](D:\digitalSig\gui.PNG)
 
 > readwav.m是用于读入音频文件并做频谱分析的脚本；
 >
